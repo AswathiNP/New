@@ -1,0 +1,7 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+      xmlns:ctx="http://www.springframework.org/schema/context"
+
+>
+<ctx:annotation-config></ctx:annotation-config>
+<ctx:component-scan base-package=""></ctx:component-scan>
+</beans>
